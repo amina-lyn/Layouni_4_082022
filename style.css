@@ -648,10 +648,18 @@ h6,
 p,
 label,
 .btn,
+
 a {
     font-family: "helvetica";
     font-weight: 400;
     color: #1D1D1D!important;
+}
+
+li{
+    margin: 5px;
+    padding: 10px;
+    width: 100px;
+    height: 48px;
 }
 
 .container {
